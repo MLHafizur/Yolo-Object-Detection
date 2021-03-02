@@ -1,0 +1,54 @@
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":40,"msg":"Config option `delete_to_trash` not recognized by `ColabFileContentsManager`.","time":"2021-03-02T19:29:54.725Z","v":0}
+{"name":"app","hostname":"ec7bc635ab01","pid":1,"type":"jupyter","level":40,"msg":"Config option `delete_to_trash` not recognized by `ColabFileContentsManager`.","time":"2021-03-02T19:29:54.735Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":30,"msg":"Writing notebook server cookie secret to /root/.local/share/jupyter/runtime/notebook_cookie_secret","time":"2021-03-02T19:29:54.752Z","v":0}
+{"name":"app","hostname":"ec7bc635ab01","pid":1,"type":"jupyter","level":30,"msg":"Writing notebook server cookie secret to /root/.local/share/jupyter/runtime/notebook_cookie_secret","time":"2021-03-02T19:29:54.757Z","v":0}
+{"name":"app","hostname":"ec7bc635ab01","pid":1,"type":"jupyter","level":30,"msg":"google.colab serverextension initialized.","time":"2021-03-02T19:29:54.852Z","v":0}
+{"name":"app","hostname":"ec7bc635ab01","pid":1,"type":"jupyter","level":30,"msg":"Serving notebooks from local directory: /","time":"2021-03-02T19:29:54.853Z","v":0}
+{"name":"app","hostname":"ec7bc635ab01","pid":1,"type":"jupyter","level":30,"msg":"0 active kernels","time":"2021-03-02T19:29:54.853Z","v":0}
+{"name":"app","hostname":"ec7bc635ab01","pid":1,"type":"jupyter","level":30,"msg":"The Jupyter Notebook is running at:","time":"2021-03-02T19:29:54.854Z","v":0}
+{"name":"app","hostname":"ec7bc635ab01","pid":1,"type":"jupyter","level":30,"msg":"http://172.28.0.12:9000/","time":"2021-03-02T19:29:54.854Z","v":0}
+{"name":"app","hostname":"ec7bc635ab01","pid":1,"type":"jupyter","level":30,"msg":"Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).","time":"2021-03-02T19:29:54.855Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":30,"msg":"google.colab serverextension initialized.","time":"2021-03-02T19:29:54.857Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":30,"msg":"Serving notebooks from local directory: /","time":"2021-03-02T19:29:54.858Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":30,"msg":"0 active kernels","time":"2021-03-02T19:29:54.858Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":30,"msg":"The Jupyter Notebook is running at:","time":"2021-03-02T19:29:54.859Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":30,"msg":"http://172.28.0.2:9000/","time":"2021-03-02T19:29:54.859Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":30,"msg":"Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).","time":"2021-03-02T19:29:54.859Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":30,"msg":"Kernel started: b78fb0e8-b47a-4b3b-9dc9-6a8737d50158","time":"2021-03-02T19:34:12.931Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":30,"msg":"Adapting to protocol v5.1 for kernel b78fb0e8-b47a-4b3b-9dc9-6a8737d50158","time":"2021-03-02T19:34:14.331Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":30,"msg":"Creating new directory in /content","time":"2021-03-02T19:36:08.833Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":30,"msg":"Uploading file to /content/Obj_DetecTion/coco (1).names","time":"2021-03-02T19:37:05.073Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":30,"msg":"Uploading file to /content/Obj_DetecTion/coco (1).data","time":"2021-03-02T19:37:05.126Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":30,"msg":"Uploading file to /content/Obj_DetecTion/yolov4-obj.cfg","time":"2021-03-02T19:37:05.301Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":30,"msg":"Uploading file to /content/Obj_DetecTion/yolov4-obj_5000.weights","time":"2021-03-02T19:37:08.609Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":30,"msg":"Uploading file to /content/Obj_DetecTion/yolov4-csp.weights","time":"2021-03-02T19:37:08.795Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":30,"msg":"Uploading file to /content/Obj_DetecTion/yolov4-obj_4000.weights","time":"2021-03-02T19:37:08.879Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":30,"msg":"Kernel restarted: b78fb0e8-b47a-4b3b-9dc9-6a8737d50158","time":"2021-03-02T19:45:35.170Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":40,"msg":"[ WARN:0] global /tmp/pip-req-build-p6arhee9/opencv/modules/videoio/src/cap_v4l.cpp (893) open VIDEOIO(V4L2:/dev/video0): can't open camera by index","time":"2021-03-02T20:27:04.805Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":30,"msg":"Kernel restarted: b78fb0e8-b47a-4b3b-9dc9-6a8737d50158","time":"2021-03-02T20:32:39.341Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":40,"msg":"delete /content/YOLO-Object-Detection","time":"2021-03-02T20:32:55.416Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":40,"msg":"400 DELETE /api/contents/content/YOLO-Object-Detection (172.28.0.3): Directory /content/YOLO-Object-Detection not empty","time":"2021-03-02T20:32:55.433Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":40,"msg":"Directory /content/YOLO-Object-Detection not empty","time":"2021-03-02T20:32:55.434Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":40,"msg":"400 DELETE /api/contents/content/YOLO-Object-Detection (172.28.0.3) 19.81ms referer=https://colab.research.google.com/","time":"2021-03-02T20:32:55.435Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":40,"msg":"[ WARN:0] global /tmp/pip-req-build-p6arhee9/opencv/modules/videoio/src/cap_v4l.cpp (893) open VIDEOIO(V4L2:/dev/video0): can't open camera by index","time":"2021-03-02T20:34:02.046Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":40,"msg":"[ WARN:0] global /tmp/pip-req-build-p6arhee9/opencv/modules/videoio/src/cap_v4l.cpp (893) open VIDEOIO(V4L2:/dev/video0): can't open camera by index","time":"2021-03-02T20:35:11.143Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":30,"msg":"Uploading file to /content/Obj_DetecTion/yolovhafiz.cfg","time":"2021-03-02T20:42:57.271Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":40,"msg":"qt.qpa.xcb: could not connect to display ","time":"2021-03-02T20:43:54.681Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":40,"msg":"qt.qpa.plugin: Could not load the Qt platform plugin \"xcb\" in \"/usr/local/lib/python3.7/dist-packages/cv2/qt/plugins\" even though it was found.","time":"2021-03-02T20:43:54.681Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":40,"msg":"This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.","time":"2021-03-02T20:43:54.682Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":40,"msg":"Available platform plugins are: xcb.","time":"2021-03-02T20:43:54.682Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":30,"msg":"KernelRestarter: restarting kernel (1/5), keep random ports","time":"2021-03-02T20:43:57.342Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":40,"msg":"WARNING:root:kernel b78fb0e8-b47a-4b3b-9dc9-6a8737d50158 restarted","time":"2021-03-02T20:43:57.343Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":40,"msg":"qt.qpa.xcb: could not connect to display ","time":"2021-03-02T21:21:20.064Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":40,"msg":"qt.qpa.plugin: Could not load the Qt platform plugin \"xcb\" in \"/usr/local/lib/python3.7/dist-packages/cv2/qt/plugins\" even though it was found.","time":"2021-03-02T21:21:20.065Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":40,"msg":"This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.","time":"2021-03-02T21:21:20.065Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":40,"msg":"Available platform plugins are: xcb.","time":"2021-03-02T21:21:20.065Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":30,"msg":"KernelRestarter: restarting kernel (1/5), keep random ports","time":"2021-03-02T21:21:21.350Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":40,"msg":"WARNING:root:kernel b78fb0e8-b47a-4b3b-9dc9-6a8737d50158 restarted","time":"2021-03-02T21:21:21.351Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":30,"msg":"Adapting to protocol v5.1 for kernel b78fb0e8-b47a-4b3b-9dc9-6a8737d50158","time":"2021-03-02T21:22:24.242Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":40,"msg":"qt.qpa.xcb: could not connect to display ","time":"2021-03-02T21:23:43.987Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":40,"msg":"qt.qpa.plugin: Could not load the Qt platform plugin \"xcb\" in \"/usr/local/lib/python3.7/dist-packages/cv2/qt/plugins\" even though it was found.","time":"2021-03-02T21:23:43.987Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":40,"msg":"This application failed to start because no Qt platform plugin could be initialized. Reinstalling the application may fix this problem.","time":"2021-03-02T21:23:43.987Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":40,"msg":"Available platform plugins are: xcb.","time":"2021-03-02T21:23:43.987Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":30,"msg":"KernelRestarter: restarting kernel (1/5), keep random ports","time":"2021-03-02T21:23:45.359Z","v":0}
+{"name":"app","hostname":"b3e5852ffe95","pid":1,"type":"jupyter","level":40,"msg":"WARNING:root:kernel b78fb0e8-b47a-4b3b-9dc9-6a8737d50158 restarted","time":"2021-03-02T21:23:45.360Z","v":0}
